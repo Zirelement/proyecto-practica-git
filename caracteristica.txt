@@ -1,1 +1,2 @@
 Nueva caracteristica implementada
+Correcion de error critico
